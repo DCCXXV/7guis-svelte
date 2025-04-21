@@ -6,6 +6,7 @@
     <a href="/timer">Timer</a>
     <a href="/crud">CRUD</a>
     <a href="/circledrawer">Circle Drawer</a>
+    <a href="/cells">Cells</a>
 </nav>
 
 <hr>
