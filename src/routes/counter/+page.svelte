@@ -6,6 +6,10 @@
     }
 </script>
 
+<svelte:head>
+    <title>Counter</title>
+</svelte:head>
+
 <section>
     <div id="content">
         <span id="number">{count}</span>

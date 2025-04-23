@@ -1,3 +1,6 @@
+<svelte:head>
+    <title>7GUIs: Svelte 5</title>
+</svelte:head>
 <section>
     <h1>7GUIs: A GUI Programming Benchmark</h1>
     <h3>... done in Svelte 5 ✨</h3>
