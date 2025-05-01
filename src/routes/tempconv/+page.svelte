@@ -1,6 +1,6 @@
 <script lang="ts">
-    let celsius: number = $state(0)
-    let fahrenheit: number = $state(0)
+    let celsius: number = $state(0);
+    let fahrenheit: number = $state(0);
 
     function calcFahrenheit() {
         fahrenheit = Math.round((celsius * (9/5) + 32) * 100) / 100
@@ -32,7 +32,7 @@
 <style>
     section {
         display: flex;
-        height: 70vh;
+        min-height: 70vh;
     }
 
     input {

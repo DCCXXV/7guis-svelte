@@ -1,5 +1,5 @@
 <script lang="ts">
-    let count = $state(0);
+    let count: number = $state(0);
 
     function increment() {
         count++;
@@ -20,7 +20,7 @@
 <style>
     section {
         display: flex;
-        height: 70vh;
+        min-height: 70vh;
     }
 
     #content {

@@ -14,6 +14,7 @@
         <img src="favicon.png" alt="Svelte's logo" style="width: 30vw">
     </div>
 </section>
+
 <style>
     #img-container {
         display: flex;
